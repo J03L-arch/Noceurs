@@ -1,0 +1,4 @@
+name, phone number, id number, course
+Joe, 12345, 0720374671 Computer Science
+Unc, 13245, 079876543 Business
+Kim, 14235, 0723456789 Engineering
